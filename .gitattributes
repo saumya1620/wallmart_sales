@@ -1,4 +1,4 @@
 *.ipynb linguist-detectable=true
-*.ipynb linguist-language=JupyterNotebook
+*.ipynb linguist-language=Jupyter Notebook
 
 *.sql linguist-detectable=true
