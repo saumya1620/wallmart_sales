@@ -16,7 +16,6 @@ Through this project, I explored sales performance, product categories, branch p
 * **Pandas** – Data manipulation and preprocessing
 * **NumPy** – Numerical operations
 * **MySQL** – Database management and SQL analysis
-* **PostgreSQL** – Database management and SQL analysis
 * **SQLAlchemy** – Database connectivity and data loading
 * **Jupyter Notebook** – Exploratory data analysis
 * **VS Code** – Development environment
