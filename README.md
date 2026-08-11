@@ -157,16 +157,15 @@ Detailed findings and SQL queries are available in the project files.
 Walmart-Sales-Analysis/
 │
 ├── data/
-│   └── walmart_sales.csv
+│   |── walmart_sales.csv
+│   └── walmart_clean_data.csv
 │
 ├── notebooks/
-│   └── data_analysis.ipynb
+│   └── project.ipynb
 │
 ├── sql_queries/
-│   ├── sales_analysis.sql
 │   └── business_questions.sql
 │
-├── main.py
 ├── requirements.txt
 └── README.md
 ```
